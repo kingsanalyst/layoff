@@ -18,6 +18,7 @@ PART3
 PART4
 
 • I removed columns and rows that are unnecessary from the dataset 
+
 ![Uploading clean6_033524.JPG…]()
 
 
